@@ -37,7 +37,7 @@ penúltimo adversario en el momento en que se le pasa el balón.
 Las faltas y conductas antideportivas pueden resultar en tiros libres, penales o tarjetas amarillas y rojas.
 
 
-<font face="Kristen ITC" color="green"> <b>Jugadores Históricos:></b>
+<font face="Kristen ITC" color="green"> <b>Jugadores Históricos:</b>
 
 Pelé: Considerado uno de los mejores futbolistas de todos los tiempos, el brasileño Pelé ganó tres Copas del Mundo (1958, 1962, 1970) 
 y es conocido por su habilidad, técnica y capacidad de marcar goles.
