@@ -18,18 +18,14 @@ al igual que los demás códigos de fútbol, se remontan varios siglos en el pas
 Si bien existían puntos en común entre diferentes juegos de pelota que se desarrollaron desde los años del siglo III a. C.
 Los primeros códigos británicos que dieron origen al balompié se caracterizaban por su poca organización y violencia extrema. No obstante, también existían otros códigos menos violentos y 
 mejor organizados. Quizás uno de los más conocidos fue el calcio florentino, deporte de equipo muy popular en Italia que tuvo incidencia en los códigos de algunas escuelas británicas.
-​La formación definitiva del fútbol tuvo su momento culminante durante el siglo xix.
-
-
-
-<font face="Kristen ITC" color="green" <b>Características del fútbol</font></b>
+​La formación definitiva del fútbol tuvo su momento culminante durante el sigcolor="green" <b>Características del fútbol</font></b>
 
 Número de Jugadores: Cada equipo tiene once jugadores en el campo, incluyendo al portero.
 Duración del Partido: Un partido de fútbol se juega en dos tiempos de 45 minutos cada uno, con un intervalo de 15 minutos entre ambos tiempos.
 Objetivo del Juego: El objetivo principal es marcar más goles que el equipo contrario. Un gol se consigue cuando el balón 
 cruza completamente la línea de la portería.
 
-<font face="Kristen ITC" color="green" <b>Reglas Básicas:</font></b> 
+ <b>Reglas Básicas:</b> 
 
 No se permite el uso de las manos o los brazos por parte de los jugadores, excepto por el portero dentro de su área.
 El fuera de juego (offside) se penaliza si un jugador está más cerca de la línea de meta contraria que el balón y el 
@@ -37,32 +33,32 @@ penúltimo adversario en el momento en que se le pasa el balón.
 Las faltas y conductas antideportivas pueden resultar en tiros libres, penales o tarjetas amarillas y rojas.
 
 
-<font face="Kristen ITC" color="green" <b>Jugadores Históricos:</font></b>
+ <b>Jugadores Históricos:</b>
 
 Pelé: Considerado uno de los mejores futbolistas de todos los tiempos, el brasileño Pelé ganó tres Copas del Mundo (1958, 1962, 1970) 
 y es conocido por su habilidad, técnica y capacidad de marcar goles.
 
-<img src="pele.jpeg" width=150 height=150></img>
+<img src="pele.jpeg" width=150 height=150>
 
 Diego Maradona: La leyenda argentina es famosa por su habilidad técnica y su famoso "Gol del Siglo" en el Mundial de 1986. 
 Maradona llevó a Argentina a ganar ese torneo y es recordado por su magia con el balón.
 
-<img src="maradona.jpg" width=150 height=150></img>
+<img src="maradona.jpg" width=150 height=150>
 
 Johan Cruyff: Cruyff fue un innovador del juego y un embajador del "fútbol total". El neerlandés tuvo una carrera 
 influyente tanto como jugador como entrenador, y su legado sigue vivo en el estilo de juego del FC Barcelona.
 
-<img src="cruy.jpg" width=150 height=150></img>
+<img src="cruy.jpg" width=150 height=150>
 
 Zinedine Zidane: El francés fue un maestro del centro del campo y destacó en el Mundial de 1998, donde marcó dos goles en la final. 
 Su elegancia y visión de juego le hicieron famoso en clubes como la Juventus y el Real Madrid.
 
-<img src="zidan.jpg" width=150 height=150></img>
+<img src="zidan.jpg" width=150 height=150>
 
 Cristiano Ronaldo: Conocido por su increíble capacidad física y habilidades ofensivas, Cristiano Ronaldo 
 ha ganado múltiples Balones de Oro y ha establecido récords en la Liga de Campeones y en competiciones nacionales.
 
-<img src="ronaldo.jpg" width=150 height=150></img>
+<img src="ronaldo.jpg" width=150 height=150>
 
 <font face="Kristen ITC" color="green" <b>Torneos Internacionales de Clubes</font></b>
 
