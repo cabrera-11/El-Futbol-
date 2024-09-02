@@ -64,7 +64,7 @@ ha ganado múltiples Balones de Oro y ha establecido récords en la Liga de Camp
 
 <img src="ronaldo.jpg" width=150 height=150></img>
 
-<font face="Kristen ITC" color="green" <b>Torneos Internacionales de Clubes</font></b>
+<font face="Kristen ITC" color="green"> <b>Torneos Internacionales de Clubes</font></b>
 
 
 <b><u>Liga de Campeones de la UEFA</u></b>
@@ -101,5 +101,6 @@ Próximo Evento: En curso, con la final prevista para noviembre de 2024.
 Descripción: Es un torneo internacional de clubes en el que participan los campeones de cada una de las confederaciones continentales, así 
 como el campeón de la liga de la liga anfitriona.
 Próximo Evento: En curso, con el torneo de 2024 programado para diciembre en Arabia Saudita.</font></center>
+
 
 
