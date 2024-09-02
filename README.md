@@ -22,14 +22,14 @@ mejor organizados. Quizás uno de los más conocidos fue el calcio florentino, d
 
 
 
-<font face="Kristen ITC" color="green"> <b>Características del fútbol</font></b>
+<font face="Kristen ITC" color="green"> <b>Características del fútbol</b>
 
 Número de Jugadores: Cada equipo tiene once jugadores en el campo, incluyendo al portero.
 Duración del Partido: Un partido de fútbol se juega en dos tiempos de 45 minutos cada uno, con un intervalo de 15 minutos entre ambos tiempos.
 Objetivo del Juego: El objetivo principal es marcar más goles que el equipo contrario. Un gol se consigue cuando el balón 
 cruza completamente la línea de la portería.
 
-<font face="Kristen ITC" color="green"> <b>Reglas Básicas:</font></b> 
+<font face="Kristen ITC" color="green"> <b>Reglas Básicas:</b> 
 
 No se permite el uso de las manos o los brazos por parte de los jugadores, excepto por el portero dentro de su área.
 El fuera de juego (offside) se penaliza si un jugador está más cerca de la línea de meta contraria que el balón y el 
@@ -37,7 +37,7 @@ penúltimo adversario en el momento en que se le pasa el balón.
 Las faltas y conductas antideportivas pueden resultar en tiros libres, penales o tarjetas amarillas y rojas.
 
 
-<font face="Kristen ITC" color="green"> <b>Jugadores Históricos:</font></b>
+<font face="Kristen ITC" color="green"> <b>Jugadores Históricos:></b>
 
 Pelé: Considerado uno de los mejores futbolistas de todos los tiempos, el brasileño Pelé ganó tres Copas del Mundo (1958, 1962, 1970) 
 y es conocido por su habilidad, técnica y capacidad de marcar goles.
@@ -64,7 +64,7 @@ ha ganado múltiples Balones de Oro y ha establecido récords en la Liga de Camp
 
 <img src="ronaldo.jpg" width=150 height=150>
 
-<font face="Kristen ITC" color="green"> <b>Torneos Internacionales de Clubes</font></b>
+<font face="Kristen ITC" color="green"> <b>Torneos Internacionales de Clubes</b>
 
 
 <b><u>Liga de Campeones de la UEFA</u></b>
